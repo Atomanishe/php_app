@@ -24,9 +24,9 @@ else
 <body>
     <section class="congratulations">
         <h1>Congratulations! IT Академия ШАГ!!!</h1>
-        <p>Владислав Абражевич  <em>PHP</em> заергился на AWS воперки &nbsp;санкциям!</p>
-        <p>You are running PHP version <?= phpversion() ?></p>
-        <p>This environment is launched with Elastic Beanstalk PHP Platform</p>
+        <p>Владислав Абражевич зарегился на AWS воперки &nbsp;санкциям!</p>
+        <p>Follow your dreams! <?= phpversion() ?></p>
+        <p>Be persistent and you will reach you success.</p>
     </section>
 
     <section class="instructions">
